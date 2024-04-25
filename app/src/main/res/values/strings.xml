@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_upload">Upload</string>
+</resources>
